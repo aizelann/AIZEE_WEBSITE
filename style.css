@@ -1,0 +1,12 @@
+.Buttons{
+    background-color: rgb(197, 214, 214);
+    border: none;
+    color: rgb(3, 38, 83);
+    padding: 12px 16px;
+    font size: 16px;
+    cursor: pointer;
+}
+.Buttons:hover{
+    background-color: burlywood;
+
+}
